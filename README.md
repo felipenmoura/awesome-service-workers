@@ -57,6 +57,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources.
 - [sw-appcache-behavior](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-appcache-behavior) - A service worker implementation of the behavior defined in a page's App Cache manifest.
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
+- [DSW (Dynamic Service Workers)](https://github.com/NascHQ/dsw) - This tool generates a service worker script for you based in your custom rules. May also generate your manifest.
 
 ## Videos
 
